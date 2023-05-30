@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"664e1eb8ff9ffcbaebcde41866789340","name":"Testing API with Reqres","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}},{"uid":"2adb241fb5f504fdf55d9631fd187eb3","name":"Basic Testing to latlong.net","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
